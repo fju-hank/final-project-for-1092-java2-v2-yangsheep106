@@ -1,7 +1,7 @@
 com/fju/Pack.java
  com.fju.Pack
-com/fju/Icecream.java
- com.fju.Icecream
+com/fju/Scoops.java
+ com.fju.Scoops
 com/fju/Flavor.java
  com.fju.Flavor
 com/fju/Tester.java
