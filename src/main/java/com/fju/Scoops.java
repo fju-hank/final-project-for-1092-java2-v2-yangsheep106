@@ -2,11 +2,12 @@ package com.fju;
 
 public class Scoops {
 
-    public void scoop(int amount){
+    int quantity;
 
-        int price = amount * 30;
+    public void price(int number){
+
+
     }
-
 
 
 }

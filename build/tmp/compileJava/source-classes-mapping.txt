@@ -1,8 +1,12 @@
+com/fju/Flavor.java
+ com.fju.Flavor
 com/fju/Pack.java
  com.fju.Pack
 com/fju/Scoops.java
  com.fju.Scoops
-com/fju/Flavor.java
- com.fju.Flavor
+com/fju/Discount.java
+ com.fju.Discount
 com/fju/Tester.java
  com.fju.Tester
+com/fju/Discount2.java
+ com.fju.Discount2
