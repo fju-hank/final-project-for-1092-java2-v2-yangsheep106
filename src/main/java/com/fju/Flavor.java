@@ -14,8 +14,8 @@ public class Flavor {
     public void print(){
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
-
         }
+
 
     }
 }

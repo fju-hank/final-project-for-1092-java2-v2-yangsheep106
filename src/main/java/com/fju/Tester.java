@@ -19,7 +19,7 @@ public class Tester {
         System.out.println("Which flavor would you like?");
         flavor.print();
         int choice3 = scanner.nextInt();
-        System.out.println("Total : $" + (int)(discount.discount(choice1) + choice2*30 + time.discount(choice3)));
+        System.out.println("Total : $" + (discount.discount(choice1) + choice2*30 + time.discount(choice3)));
 
     }
 }

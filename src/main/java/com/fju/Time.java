@@ -17,7 +17,7 @@ public class Time {
             Long mileSeconds = connection.getDate();
             Date date = new Date(mileSeconds);
 
-            if(date.getHours() > 11 && date.getHours() < 18 ){
+            if(date.getHours() >= 11 && date.getHours() <= 18 ){
                 if (number == 23 || number == 123 || number == 234) {
                     return -10;
                 } else {

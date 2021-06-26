@@ -4,11 +4,9 @@ com/fju/Hello.java
  com.fju.Hello
 com/fju/Pack.java
  com.fju.Pack
-com/fju/Scoops.java
- com.fju.Scoops
-com/fju/Time.java
- com.fju.Time
 com/fju/Discount.java
  com.fju.Discount
+com/fju/Time.java
+ com.fju.Time
 com/fju/Tester.java
  com.fju.Tester
