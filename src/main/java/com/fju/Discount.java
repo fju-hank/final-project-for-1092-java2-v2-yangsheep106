@@ -1,7 +1,5 @@
 package com.fju;
 
-import java.util.Date;
-
 public class Discount {
     public int discount(int number) {
         if(number == 1){
@@ -10,9 +8,7 @@ public class Discount {
             return 0;
         }
 
-
     }
-
 }
 
 

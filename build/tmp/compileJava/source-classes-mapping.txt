@@ -12,7 +12,7 @@ com/fju/Cake.java
  com.fju.Cake
 com/fju/Cake2.java
  com.fju.Cake2
-com/fju/Hello.java
- com.fju.Hello
 com/fju/Tester.java
  com.fju.Tester
+com/fju/Hello.java
+ com.fju.Hello

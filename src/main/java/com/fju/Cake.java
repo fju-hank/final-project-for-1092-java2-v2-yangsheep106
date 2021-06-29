@@ -1,8 +1,5 @@
 package com.fju;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class Cake {
     String id;
     int price;
