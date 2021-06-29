@@ -15,6 +15,10 @@ public class Hello {
             System.out.println(s2);
             String s3 = br.readLine();
             System.out.println(s3);
+            String s4 = br.readLine();
+            System.out.println(s4);
+            String s5 = br.readLine();
+            System.out.println(s5);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

@@ -1,3 +1,5 @@
 Hello ! Welcome to Bettino's ice cream shop
+A scoop of ice cream is $30.
 Daily offer (11 to 18 p.m.) : chocolate + vanilla $50
 Responding to environmental protection : Ice cream can be discounted by $5 in cones.
+/
